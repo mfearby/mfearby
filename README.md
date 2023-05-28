@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfearby
 - 👀 I’m interested in JavaScript, React, Kotlin, and SQL
-- 🌱 I’m currently learning more Kotlin and TornadoFX
+- 🌱 I’m currently learning Kotlin Multiplatform in my own time
 - 📫 You can reach me on LinkedIn or Twitter
 
 <!---
