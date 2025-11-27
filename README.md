@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mfearby
 - 👀 I’m interested in JavaScript, React, Kotlin, and SQL
-- 🌱 I’m currently learning Kotlin Multiplatform in my own time
-- 📫 You can reach me on LinkedIn or Twitter
+- 🌱 I’m currently learning Kubernetes
+- 📫 You can reach me on various social platforms
 
 <!---
 mfearby/mfearby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
